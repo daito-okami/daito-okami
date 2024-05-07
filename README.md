@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daito</h1>
-<h3 align="center">I am 20 year old from bulgaria learning programming at Softuni</h3>
+<h3 align="center">I am 21 year old from bulgaria learning programming at Softuni</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
